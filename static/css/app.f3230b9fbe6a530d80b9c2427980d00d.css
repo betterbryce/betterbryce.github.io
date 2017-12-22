@@ -1,0 +1,77 @@
+
+#app[data-v-39fa1ca1] {
+    font-family: 'Avenir', Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+html[data-v-39fa1ca1] {
+    min-height: 100vh;
+}
+*[data-v-39fa1ca1]{
+    box-sizing: border-box;
+}
+
+pre[data-v-26bb4375]{
+}
+@media (max-width:500px){
+pre[data-v-26bb4375]{
+}
+}
+.code[data-v-26bb4375] {
+  display: none;
+}
+
+@media (max-width:500px){
+.resumeEditor[data-v-da3b17da]{
+}
+}
+.htmlMode[data-v-da3b17da] {
+  animation: flip 2s;
+}
+@keyframes flip {
+from {
+    opacity: 0;
+}
+to {
+    opacity: 1;
+}
+}
+*{margin: 0; padding: 0;}
+*{box-sizing: border-box;}
+*::before{box-sizing: border-box;}
+*::after{box-sizing: border-box;}
+
+.resumeEditor div{
+    /*text-align: center;*/
+}
+
+.resumeEditor h1{
+    font-size: 1em;
+    font-weight: normal;
+    line-height: 1.8em;
+}
+.resumeEditor h2{
+    font-size: 1em;
+    font-weight: normal;
+    margin: 0.5em 0;
+}
+
+.resumeEditor ul li{
+    font-size: 1em;
+    line-height: 1.8em;
+}
+#app[data-v-28ac80d2] {
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  min-height: 100vh; position: relative;
+}
+html[data-v-28ac80d2] {
+  min-height: 100vh;
+}
+*[data-v-28ac80d2]{
+  box-sizing: border-box;
+}
+
+
+/*# sourceMappingURL=app.f3230b9fbe6a530d80b9c2427980d00d.css.map*/
